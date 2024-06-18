@@ -1,2 +1,2 @@
 # Vercheck
-A python based file integrity checker.
+A simple python based file integrity checker.
